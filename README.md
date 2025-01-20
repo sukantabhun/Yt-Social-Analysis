@@ -19,7 +19,6 @@ The backend provides endpoints to fetch channel details, video analysis, engagem
 ### Frontend:
 - **React.js**: JavaScript library for building the user interface.
 - **React Router**: For routing and navigation between different pages of the app.
-- **Material UI**: A React component library (optional, if used).
 
 ## Setup Instructions
 
@@ -33,7 +32,7 @@ Install dependencies: Create a virtual environment and install the required Pyth
 bash
 Copy
 Edit
-cd backend
+cd server
 pip install -r requirements.txt
 Run the FastAPI server: To run the FastAPI application with uvicorn, use the following command:
 
@@ -53,7 +52,7 @@ Navigate to the frontend directory:
 bash
 Copy
 Edit
-cd frontend
+cd socioyt
 Install frontend dependencies: Use npm to install the necessary packages:
 
 bash
@@ -65,7 +64,7 @@ Run the React development server: After installing the dependencies, you can sta
 bash
 Copy
 Edit
-npm run start
+npm start
 This will run the frontend application locally on http://localhost:3000.
 
 4. Configuration:
@@ -82,7 +81,7 @@ bash
 Copy
 Edit
 git clone <repository-url>
-cd backend
+cd server
 pip install -r requirements.txt
 uvicorn main:app --reload
 The backend will be available at http://127.0.0.1:8000.
@@ -92,7 +91,7 @@ Frontend: Navigate to the frontend directory:
 bash
 Copy
 Edit
-cd frontend
+cd socioyt
 npm install
 npm run start
 The frontend will be available at http://localhost:3000.
@@ -102,11 +101,11 @@ php
 Copy
 Edit
 .
-├── backend
+├── server
 │   ├── main.py                  # FastAPI server file
 │   ├── requirements.txt         # Python dependencies for the backend
 │   └── ...                      # Other backend-related files
-├── frontend
+├── socioyt
 │   ├── src
 │   │   ├── App.js               # Main React application component
 │   │   ├── components
