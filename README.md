@@ -20,6 +20,14 @@ The backend provides endpoints to fetch channel details, video analysis, engagem
 - **React.js**: JavaScript library for building the user interface.
 - **React Router**: For routing and navigation between different pages of the app.
 
+### Workflow:
+
+
+![Watch the video](https://github.com/user-attachments/assets/06648d9d-20d4-4d7d-8b15-10825849a8eb)
+
+
+
+
 ## Setup Instructions
 
 ### 1. Clone the repository:
@@ -115,9 +123,6 @@ Edit
 └── README.md                    # Project documentation
 
 
-
-
-https://github.com/user-attachments/assets/df87cc94-4fff-4785-97d5-b367e3a4cdd9
 
 
 
