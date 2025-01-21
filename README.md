@@ -23,7 +23,8 @@ The backend provides endpoints to fetch channel details, video analysis, engagem
 ### Workflow:
 
 
-![Watch the video[(https://github.com/user-attachments/assets/df87cc94-4fff-4785-97d5-b367e3a4cdd9)](https://github.com/user-attachments/assets/06648d9d-20d4-4d7d-8b15-10825849a8eb)
+[![Watch the video](https://github.com/user-attachments/assets/df87cc94-4fff-4785-97d5-b367e3a4cdd9)](https://github.com/user-attachments/assets/06648d9d-20d4-4d7d-8b15-10825849a8eb)
+
 
 
 
